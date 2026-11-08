@@ -1,3 +1,9 @@
+> [!NOTE]
+> **This copy is archived. The maintained project lives at [blixvip/skills](https://github.com/blixvip/skills).**
+> Issues, releases and pull requests all happen there. Contributors are welcome:
+> see its [good first issues](https://github.com/blixvip/skills/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+> and the [Discord](https://discord.gg/grokbot).
+
 # Skills
 
 Public agent skills by [@wasely](https://github.com/wasely).
